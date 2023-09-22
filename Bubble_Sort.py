@@ -1,6 +1,6 @@
 # Bubble Sort Code
 # #Global Space 
-students=['Kevin','Anthony','Thomas','Edward','Alan','Harry',Chris','William']
+students=['Kevin','Anthony','Thomas','Edward','Alan','Harry','Chris','William']
 
 def BubbleSort(Names):
     N = len(Names)
